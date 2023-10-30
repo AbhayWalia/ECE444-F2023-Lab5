@@ -5,7 +5,7 @@
 
 ## Unit tests for group project:
 
-### https://github.com/ECE444-2023Fall/project-1-web-application-design-novatech/blob/5f6005e6001c22f6e514221d859ef10bbb5db964/Tests/app_tests.py#L153C1-L173C26
+### [https://github.com/ECE444-2023Fall/project-1-web-application-design-novatech/blob/5f6005e6001c22f6e514221d859ef10bbb5db964/Tests/app_tests.py#L153C1-L173C26](https://github.com/ECE444-2023Fall/project-1-web-application-design-novatech/blob/5f6005e6001c22f6e514221d859ef10bbb5db964/Tests/app_tests.py#L142C1-L173C26)
 ### Tests written: test_check_rsvp_limit() and test_delete_all_events()
 
 ## What are the pros and cons of TDD?
